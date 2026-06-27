@@ -1,4 +1,4 @@
-Welcome to my central repository for the 3MTT (3 Million Technical Talent) Nigeria program, specifically focusing on the Artificial Intelligence and Machine Learning track. This space serves as a digital sandbox and documentation hub as I build a solid foundation in data science, predictive modeling, and intelligent systems.
+This is my central repository for the 3MTT (3 Million Technical Talent) Nigeria program, specifically focusing on the Artificial Intelligence and Machine Learning track. This space serves as a digital sandbox and documentation hub as I build a solid foundation in data science, predictive modeling, and intelligent systems.
 
 Inside, you will find a curated collection of weekly coursework, hands-on laboratory exercises, and practical implementations. The repository is systematically structured to track my progress from foundational Python scripting and data preprocessing to advanced machine learning algorithms, deep learning principles, and model deployment.
 
